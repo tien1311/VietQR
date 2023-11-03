@@ -1,0 +1,496 @@
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.deps.json
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.dll
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.pdb
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.Views.dll
+C:\Users\admin\source\repos\News\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.dll
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.pdb
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+C:\Users\admin\source\repos\News\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.dll
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\azure\News\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\azure\News\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.dll
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\azure\News\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\News\News\bin\Debug\netcoreapp2.1\TangDuLieu.dll
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\azure\News\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\azure\News\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\nlog.config
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.csprojAssemblyReference.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\forgotpass.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\loginKH.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\signup.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\ChiTietSanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\SanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\ListVeDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\EnViet\SourceAzure\news.onlineairticket.vn\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\Laythongtinve.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\nlog.config
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.deps.json
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.dll
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.pdb
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.dll
+E:\Công ti\mới\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\forgotpass.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\loginKH.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\signup.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\ChiTietSanPham.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\SanPham.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\Laythongtinve.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\ListVeDoan.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.dll
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.pdb
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\nlog.config
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\EnViet\SourceAzure\EVBay.git\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.csprojAssemblyReference.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\forgotpass.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\loginKH.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\signup.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\ChiTietSanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\SanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\Laythongtinve.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\ListVeDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\YeuCauDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\DDBL\DDBL.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\DDBL\DDBL.cshtml.g.cs
+E:\Công ti\mới\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\YeuCauDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HoTroWeb.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutFlight.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay.git\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\nlog.config
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\EnViet\SourceAzure\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\DetailInsurance.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\Error.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\Insurance.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\LoadingMoMo.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\ThanhCong.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BookerClub\BookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BookerClub\XoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\DDBL\DDBL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN_iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ChuongTrinhKhuyenMai.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Naptien.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPasswordCTV.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPasswordKH.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongTinCTV.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongTinKH.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\TinRieng.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\CreateIDBooker.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\EditIDBooker.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\IDBooker.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\forgotpass.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\KhoiPhucMKCTV.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\KhoiPhucMKKH.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\loginKH.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\signup.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\ChiTietSanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\SanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HoTroWeb.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutFlight.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts test.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\Laythongtinve.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\ListVeDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\YeuCauDoan.cshtml.g.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.dll
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\EnViet\SourceAzure\EVBay\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\nlog.config
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.dll
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\azure\EVBay\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\DetailInsurance.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\Error.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\Insurance.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\LoadingMoMo.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BaoHiem\ThanhCong.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BookerClub\BookerClub.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\BookerClub\XoSo.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\DDBL\DDBL.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusDN_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusNB_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\BusTSN_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightARRIVAL_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangARRIVAL_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDaNangDEPARTURE_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightDEPARTURE_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiARRIVAL_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\FlightNoiBaiDEPARTURE_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapDN_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapNB_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Flight\MapTSN_iframe.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\BaiViet.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ChuongTrinhKhuyenMai.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\CongVan.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\Naptien.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPasswordCTV.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPasswordKH.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongTinCTV.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongTinKH.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Home\TinRieng.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\CreateIDBooker.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\EditIDBooker.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\IDBooker\IDBooker.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\forgotpass.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\KhoiPhucMKCTV.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\KhoiPhucMKKH.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\loginKH.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Login\signup.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\ChiTietSanPham.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\SanPham\SanPham.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_HoTroWeb.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutFlight.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout_VeDoan.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts test.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\Laythongtinve.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\ListVeDoan.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VeDoan\YeuCauDoan.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\VN\DangKyBongSenVang.cshtml.g.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.dll
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+D:\azure\EVBay\News\obj\Debug\netcoreapp2.1\Razor\Views\QR\Index.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.dll
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.pdb
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\QR\Index.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts test.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\nlog.config
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\appsettings.json
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.deps.json
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.dll
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.pdb
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.Views.dll
+D:\azure\VIETQR\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+D:\azure\VIETQR\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.deps.json
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.json
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.runtimeconfig.dev.json
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.dll
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.pdb
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.Views.dll
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\bin\Debug\netcoreapp2.1\News.Views.pdb
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.AssemblyReference.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.AssemblyInfoInputs.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.AssemblyInfo.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.CoreCompileInputs.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorAssemblyInfo.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.TagHelpers.input.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.TagHelpers.output.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorCoreGenerate.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\QR\Index.cshtml.g.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts test.cshtml.g.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cache
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.RazorTargetAssemblyInfo.cs
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.Views.pdb
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.csproj.CopyComplete
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.dll
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.pdb
+C:\Users\ngomi\OneDrive\Desktop\VIETQR\News\obj\Debug\netcoreapp2.1\News.genruntimeconfig.cache

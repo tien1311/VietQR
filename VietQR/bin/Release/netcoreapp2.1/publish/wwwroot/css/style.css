@@ -1,0 +1,126 @@
+.modal-header {
+    padding: 6px 15px;
+    border-bottom: none;
+    display: block;
+    background: #2A3F54;
+}
+
+    .modal-header h1 {
+        font-size: 14px;
+        margin: 6px 0 6px 0;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    .modal-header .close {
+        padding: 5px;
+    }
+
+.modal-body {
+    background: #2A3F54;
+    padding: 0px 15px 15px 15px;
+}
+
+.modal-body-content {
+    background: #fff;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+::placeholder {
+    font-style: italic;
+    color: #333;
+    font-weight:100!important;
+}
+.x_panel {
+    padding: 3px;
+}
+body{
+    padding:0px!important;
+}
+.modal-content {
+    margin: 30px 10px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    font-weight: bold;
+}
+
+.content-iframe iframe {
+    height: 800px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+.tab-content > .active {
+    opacity: 1;
+}
+
+.btn-BSP {
+    color: #fff;
+    background-color: #6c0678;
+    border-color: #6c0678;
+}
+
+.btn-organ {
+    background-color: #f5821f;
+    border-color: #f5821f;
+    color: #fff;
+}
+
+.nav-tabs > li > a.active, .nav-tabs > li > a.active :focus, .nav-tabs > li > a.active :hover {
+    color: #0062cc !important;
+    font-weight: bold;
+    cursor: default;
+    background-color: #fff !important;
+    border: 1px solid #ddd;
+    border-color: #ddd !important;
+    border-bottom-color: transparent;
+}
+.nav > li > a:hover {
+    color: #fff !important;
+    background: #0062cc !important;
+}
+.nav > li > a {
+    padding: 8px 13px 8px !important;
+}
+.contain-imgQR img {
+    width: 100%;
+    border-radius: 8px;
+    background:fff;
+}
+.contain-imgQR {
+    padding: 50px 100px 10px;
+    background: #04558a;
+    border-radius: 8px;
+    width: 100%;
+}
+.contain-QR{
+    background:#fff;
+    border-radius:8px;
+    text-align:center;
+}
+.contain-form {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px 0;
+    margin-bottom:10px;
+}
+.contain-btn {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.contain-logo img {
+    width: 90px;
+    margin-bottom: 10px
+}
+.title {
+    font-size: 20px;
+    padding-left: 15px;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+@media (max-width: 1200px) {
+    .contain-imgQR {
+        padding: 50px 50px 10px;
+    }
+}

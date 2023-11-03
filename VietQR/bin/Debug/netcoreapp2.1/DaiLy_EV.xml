@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Manager_EV</name>
+    </assembly>
+    <members>
+        <member name="M:RedisConfig.BaseService`1.GenerateKey(System.String)">
+            <summary>
+            Generates a key for a Redis Entry  , follows the Redis Name Convention of inserting a colon : to identify values
+            </summary>
+            <param name="key">Redis identifier key</param>
+            <returns>concatenates the key with the name of the type</returns>
+        </member>
+        <member name="F:RedisConfig.RedisConnectionFactory._connection">
+            <summary>
+                The _connection.
+            </summary>
+        </member>
+        <member name="T:Uilti">
+            <summary>
+            Summary description for Uilti
+            </summary>
+        </member>
+        <member name="M:Uilti.ChuDauTienVietHoa(System.String)">
+            <summary>
+            kiem tra khoa thang
+            </summary>
+            <param name="ThangVe">thang xuat ve</param>
+            <returns>true(duoc di tiep), false (ko dc phep)</returns>
+        </member>
+        <member name="M:Uilti.FormatContentNews(System.String,System.Int32)">
+            <summary>
+            ham kiem tra quyen truy cap danh muc ve hoan 
+            </summary>
+            <returns> sign in can kiem tra </returns>
+        </member>
+        <member name="M:Uilti.SendMail_CT(System.String,System.String,System.String,System.String)">
+            <summary>
+            function send mail
+            </summary>
+            <param name="MailTo">mail address to</param>
+            <param name="from">mail address from</param>
+            <param name="subject">mail title</param>
+            <param name="body">body</param>
+            <returns>Successful</returns>
+        </member>
+        <member name="M:Uilti.FillUnicode(System.String)">
+            <summary>
+            MD5 Encrypt
+            </summary>
+            <param name="text"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Uilti.BuilNgayLapHD(System.String)">
+            <summary>
+            check ky cua so ve 
+            </summary>
+            <param name="StrNgayve">MM/dd/yyyy</param>
+            <returns>dd/MM/yyyy</returns>
+            <summary>
+            check ky cua so ve 
+            </summary>
+            <param name="StrNgayve">MM/dd/yyyy</param>
+            <returns>dd/MM/yyyy</returns>
+            <summary>
+            check ky cua so ve 
+            </summary>
+            <param name="StrNgayve">MM/dd/yyyy</param>
+            <returns>dd/MM/yyyy</returns>
+            <summary>
+            tao ngay lap HD 
+            </summary>
+            <param name="Strky">dd/MM/yyyy</param>
+            <returns>MM/dd/yyyy</returns>
+        </member>
+        <member name="M:Uilti.Mk_MoneyFormat(System.String)">
+            <summary>
+            ham xu ly ngay lap hoa don theo chuan 1/5
+            1. ve xuat truoc ngay 10 thang truoc, ngay lap se dua vao cuoi thang xuat ve.
+            2. ve trong thang co ngay lap la ngay gui 
+            </summary>
+            <param name="Ngayxuat">ngay xuat ve (dd/MM/yyyy) </param>
+            <returns>MM/dd/yyyy</returns>
+            <summary>
+            
+            </summary>
+            <param name="NgayXuat">ngay xuat ve MM/dd/yyyy</param>
+            <returns>0=>false,1=true</returns>
+            <summary>
+            ham dinh dang tien te
+            </summary>
+            <param name="giatri">kieu string truyen vao</param>
+            <returns>kieu string</returns>
+        </member>
+        <member name="M:Uilti.Templmail(System.String)">
+            mail template
+            strbody noi dung chinh 
+        </member>
+    </members>
+</doc>

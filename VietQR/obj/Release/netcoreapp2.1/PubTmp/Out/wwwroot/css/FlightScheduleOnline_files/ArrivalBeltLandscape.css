@@ -1,0 +1,715 @@
+﻿.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bodyContent {
+    position: relative;
+    font-family: Roboto,sans-serif;
+    margin: 0px;
+    padding: 0px;
+    /*background-color: #102540 !important;*/
+    background-image: url('../Flight Schedule Online_files/background.png');
+    background-repeat: no-repeat;
+    background-size: 1920px 1100px;
+    background-position: right -300px;
+    background-color: #152238;
+}
+.nav-bot .nav-link {
+    font-size: 18px;
+}
+table.flightschedule {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+    font-weight: normal;
+    background: #404040;
+}
+
+.tia {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+table.flightschedule tr th {
+    line-height: 15px;
+}
+table.flightschedule tr:nth-of-type(odd) {
+    background: #000000;
+}
+
+table.flightschedule th {
+    background: #800000;
+    color: white;
+    font-weight: bold;
+}
+
+
+.scheduled {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+.estimated,.estimated-h {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+.estimated {
+    color: #ffd401; /*#ffbf00;*/
+}
+.from-h, .from {
+    width: 15%;
+    padding-left: 10px;
+}
+
+.from-h {
+    border-right: 1px solid black;
+}
+
+.airlines {
+    width: 8%;
+    text-align: center;
+    padding: 0px;
+    background: none;
+}
+
+.airlines-h {
+    width: 8%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+.flight {
+    width: 13%;
+    padding-left: 10px;
+    border-right: 1px solid black;
+}
+.button-switch{
+	display: block;
+	width: 70px;
+   display: flex;
+      justify-content: left;
+	   float:left;
+}
+.belt, .belt-data {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+.belt-data {
+    color: #ffd401; /*#ffbf00;*/
+}
+
+.remark-h, .remark {
+    width: auto;
+    padding-left: 10px;
+}
+
+/*.remark {
+    font-size: 25px;
+}*/
+/*.remarks {
+    width: auto;
+    padding-left: 10px;
+    
+    font-weight: normal;
+}*/
+table.flightschedule th {
+    font-size: 16px;
+}
+
+table.flightschedule td {
+    font-size: 14px;
+    height: 50px;
+}
+
+.tia {
+    font-size: 35px;
+    color: #ffffff;
+}
+
+.text-flight {
+    color: white;
+    font-size: 20px;
+    float: left;
+}
+.date-flight {
+    font-size: 16px;
+}
+.terminal {
+    font-size: 12px;
+    display: flex;
+    justify-content: left;
+}
+
+.terminal input {
+    width: 1rem;
+    vertical-align: top;
+    margin-top: 1px;
+}
+.text-time {
+    color: white;
+    font-size: 50px;
+    float: right;
+    padding-top: 0px;
+}
+
+
+.logo {
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
+.logoEV {
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-left:35px;
+    width:130px;
+	height:auto;
+}
+.ContentBus {
+    background-color: #fff;
+    padding: 10px;
+}
+.flight {
+    width: 17%;
+    padding-left: 10px;
+}
+.empty{
+width: 0.1%;
+}
+.ok
+{
+	display: flex;
+	justify-content: center;
+}
+.flight-detail
+{
+	display:inline;
+    flex-basis:0;
+}
+.text-page {
+    color: white;
+    font-size: 20px;
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.text-note {
+    color: white;
+    font-size: 20px;
+    float: left;
+    padding-top: 7px;
+	padding-left: 13px;
+}
+.lan-logo {
+    width: 22px;
+    height: 18px;
+}
+
+.lan-switch {
+    float: right;
+    padding-top: 0px;
+}
+
+.btn-lng {
+    width: auto;
+    height: auto;
+}
+@media screen and (max-width:900px) {
+    table.flightschedule th {
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:700px) {
+    body {
+        background-size: unset;
+        background-position: unset;
+        background-repeat: unset;
+    }
+
+    .text-flight {
+        color: white;
+        font-size: 30px;
+        float: left;
+        margin-top: 0px;
+        margin-left: 0px;
+        padding-top: 0px;
+    }
+
+    .text-time {
+        color: white;
+        font-size: 28px;
+        float: right;
+        padding-top: 0px;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+
+    .text-page {
+        color: white;
+        font-size: 18px;
+        float: right;
+        padding-top: 18px;
+        margin-right: 3px;
+    }
+
+    .text-note {
+        color: white;
+        font-size: 15px;
+        float: left;
+        padding-top: 3px;
+        margin-left: -5px;
+    }
+
+    .button-switch {
+        max-width: 100%;
+        width: auto;
+        display: flex;
+        justify-content: left;
+        float: left;
+    }
+
+    row {
+        max-width: 100%;
+    }
+
+    html, body {
+        overflow-x: hidden;
+    }
+
+    body {
+        position: relative
+    }
+
+    table.flightschedule th {
+        font-size: 12px;
+    }
+
+    .nav-bot .nav-link {
+        font-size: 12px;
+    }
+
+    table.flightschedule td {
+        font-size: 14px;
+        height: 50px;
+    }
+
+    .scheduled {
+        width: 10%;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+
+    .from-h {
+        width: 10%;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+
+    .from-h, .from {
+        width: 20%;
+        padding-left: 2px;
+    }
+
+    .estimated, .estimated-h {
+        width: 10%;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+    /*.estimated {
+    color: #ffbf00;
+}*/
+    .airlines {
+        width: 8%;
+        text-align: center;
+        padding: 0px;
+        background: none;
+    }
+
+    .airlines-h {
+        width: 8%;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+
+    .flight {
+        width: 16%;
+        padding-left: 1px;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+
+    .belt, .belt-data {
+        width: 10%;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+
+    /*.belt-data {
+    color: #ffbf00;
+}*/
+
+    .remark-h, .remark {
+        width: auto;
+        padding-left: 10px;
+    }
+
+    .remark {
+        font-size: 13px;
+        text-align: left;
+    }
+
+    .empty {
+        width: 0.1%;
+    }
+
+    .flight-detail {
+        display: inline;
+    }
+
+    table.flightschedule {
+        width: 100%;
+        border-collapse: collapse;
+        color: white;
+        font-weight: normal;
+        background: #404040;
+    }
+
+    .logo {
+        padding: 0%;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        margin-left: -2px;
+        width: 44px;
+        height: 44px;
+    }
+
+    .logoTIA {
+        padding: 2%;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        margin-left: 5px;
+        width: 265px;
+        height: 63px;
+    }
+
+    .ok {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%
+    }
+
+    .table-fixed tbody {
+        display: block;
+        height: 400px;
+        overflow-y: auto;
+    }
+
+    .table-fixed tr {
+        display: block;
+    }
+
+    .btn-lng {
+        transform: scale(0.8);
+    }
+
+    .lan-logo {
+        width: 15px;
+        height: 13px;
+    }
+
+    .lan-switch {
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-device-width: 400px)
+{
+	
+	body {
+	 background-size: unset;
+	 background-position: unset;
+	 background-repeat: unset;
+
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.modal_window{
+   position:fixed;
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+   z-index:100;
+}
+.table-fixed tbody
+{
+	display: block;
+	height: 300px;
+	overflow-y:auto;
+}
+.table-fixed tr
+{
+	display: block;
+
+}
+    table.flightschedule th {
+        position: sticky;
+        top: 0px;
+        font-size: 10px;
+    }
+    .nav-bot .nav-link {
+        font-size: 10px;
+    }
+    table.flightschedule td {
+        font-size: 12px;
+        height: 40px;
+    }
+	.remark {
+		width: 7%;
+    font-size: 10px;
+	text-align: left;
+	}
+    .button-switch{
+	    width:auto;
+    }
+    .text-flight {
+        color: white;
+        font-size: 18px;
+        float: left;
+        margin-top: 0px;
+        margin-left: 0px;
+        padding-top: 0px;
+        line-height: 19px;
+    }
+    .date-flight {
+        font-size: 14px;
+    }
+    .terminal input {
+        margin-top: 3px;
+    }
+.text-time {
+    color: white;
+    font-size: 21px;
+    float: right;
+    padding-top: 0px;
+	margin-top:10px;
+	margin-right:10px;
+}
+.text-page {
+    color: white;
+    font-size: 15px;
+    float: right;
+    padding-top: 18px;
+	margin-right:3px;
+}
+.text-note {
+    color: white;
+    font-size: 15px;
+    float: left;
+    padding-top: 4px;
+}
+
+.remark-h, .remark {
+    width: auto;
+    font-size:12px;
+}
+.logo {
+     padding: 0%;
+	margin-top:0px;
+	margin-bottom:5px;
+	margin-left:-2px;
+    width: 34px;
+    height: 34px;
+}
+.logoTIA {
+    padding: 2%;
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-left:5px;
+    width: 196.6px;
+    height: 47px;
+}
+
+}
+@media only screen and (min-device-height: 740px)
+{
+    table.flightschedule td {
+        height: 40px;
+    }
+}
+@media only screen and (min-device-height: 800px)
+{
+    table.flightschedule td {
+        height: 45px;
+    }
+}
+
+@media only screen and (max-device-width: 1024px) and (min-device-width: 700px)
+{
+	.text-flight {
+    color: white;
+    font-size: 60px;
+    float: left;
+	margin-top:0px;
+	margin-left:0px;
+}
+body {
+
+	background-repeat: no-repeat;
+	 background-size: 1020px 600px;
+
+}
+.text-time {
+     color: white;
+    font-size: 58px;
+    float: right;
+    padding-top: 0px;
+	margin-top:16px;
+	margin-right:10px;
+}
+.text-page {
+    color: white;
+    font-size:38px;
+    float: right;
+    padding-top: 18px;
+	margin-top:20px;
+	margin-right:10px;
+}
+.button-switch{
+	max-width:100%;
+	width:auto;
+	 display: flex;
+      justify-content: left;
+	  float:left;
+}
+.text-note {
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 6px;
+	margin-left: px;
+}
+row {
+	max-width:100%;
+}
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+    table.flightschedule th {
+        font-size: 26px;
+    }
+
+    table.flightschedule td {
+        font-size: 28px;
+        height: 100px;
+    }
+.scheduled {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+.from-h {
+	width: 10%;
+	
+	text-align: center;
+    border-right: 1px solid black;
+}
+.estimated,.estimated-h {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+.estimated {
+    color: #ffbf00;
+}
+.airlines {
+    width: 8%;
+    text-align: center;
+    padding: 0px;
+    background: none;
+}
+
+.airlines-h {
+    width: 8%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+.flight {
+    width: 17%;
+    padding-left: 1px;
+	text-align: center;
+    border-right: 1px solid black;
+}
+.belt, .belt-data {
+    width: 10%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+.belt-data {
+    color: #ffbf00;
+}
+
+.remark-h, .remark {
+    width: auto;
+    padding-left: 10px;
+}
+
+.remark {
+    font-size: 26px;
+	text-align: left;
+}
+.empty{
+width: 0.1%;
+}
+.flight-detail
+{
+	display:inline;
+}
+
+    table.flightschedule {
+        width: 100%;
+        border-collapse: collapse;
+        color: white;
+        font-weight: normal;
+        background: #404040;
+    }
+.logo {
+      padding: 0%;
+	margin-top:-5px;
+	margin-bottom:10px;
+	margin-left:-2px;
+    width: 72px;
+    height: 72px;
+}
+.logoTIA {
+    padding: 2%;
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-left:5px;
+    width: 530px;
+    height: 126px;
+}
+
+.ok
+{
+	display: flex;
+	justify-content: center;
+}
+}

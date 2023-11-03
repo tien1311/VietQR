@@ -1,0 +1,125 @@
+﻿<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
+<script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/adminlte.min.js"></script>
+<script src="~/plugins/owl-carousel/responsiveslides.min.js"></script>
+<script src="~/plugins/owl-carousel/owl.carousel-2.0.0.min.js"></script>
+<script src="~/plugins/owl-carousel/owl.carousel-gen.js"></script>
+<script src="~/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/vendors/moment/min/moment.min.js"></script>
+<script src="~/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script src="~/js/custom.min.js"></script>
+<script>
+    $("#slider3").responsiveSlides({
+        manualControls: '#slider3-pager',
+        maxwidth: 540
+    });
+    function toggleHoTro(id_from/*, id_to, id_to_to*/) {
+        document.getElementById(id_from).style.display = 'inline-block';
+        if (id_from == 'hotro_vedoan') {
+            document.getElementById('btn_vedoan').style.backgroundColor = '#00bad2';
+        }
+    }
+    $(document).ready(function () {
+        $("#header_hotro").click(function () {
+
+            var indicator = $("#indicator_arrow").html();
+            $("#body_hotro").slideToggle(1000);
+            if (indicator == "⮟") {
+                $("#indicator_arrow").html("⮝");
+            }
+            else {
+                $("#indicator_arrow").html("⮟");
+            }
+        });
+    });
+</script>
+<script>
+
+    // Set default min date to today
+    var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth() + 1; //January is 0!
+    var yyyy = today.getFullYear();
+    if (dd < 10) { dd = '0' + dd }
+    if (mm < 10) { mm = '0' + mm }
+    today = yyyy + '-' + mm + '-' + dd;
+
+    // Initialize datepicker for start date
+    $("#departure-date").datepicker({
+        dateFormat: "yy-mm-dd",
+        minDate: today,
+        defaultDate: today,
+        onSelect: function (date) {
+            $("#return-date").datepicker("option", "minDate", date);
+            calculateDateDiff();
+            var maboahiem = $('#insurance-type option:selected').val();
+            var token = document.getElementById("token").value;
+            var start_date = document.getElementById("departure-date").value;
+            var end_date = document.getElementById("return-date").value;
+            $.ajax({
+                type: "GET",
+                url: "/BaoHiem/getBill",
+                data: { product_code: maboahiem, start_date: start_date, end_date: end_date, token: token },
+                success: function (response) {
+                    var count = document.querySelectorAll('[id^="idCon"]').length;
+                    document.getElementById("total").innerHTML = response.data.total_amount * count;
+                },
+                failure: function (response) {
+
+                    alert(response);
+                },
+                error: function (response) {
+
+                    alert(response);
+                }
+            });
+        }
+    });
+    // Initialize datepicker for end date
+    $("#return-date").datepicker({
+        dateFormat: "yy-mm-dd",
+        minDate: today,
+        defaultDate: today,
+        onSelect: function (date) {
+            $("#departure-date").datepicker("option", "maxDate", date);
+            calculateDateDiff();
+            var maboahiem = $('#insurance-type option:selected').val();
+            var token = document.getElementById("token").value;
+            var start_date = document.getElementById("departure-date").value;
+            var end_date = document.getElementById("return-date").value;
+            $.ajax({
+                type: "GET",
+                url: "/BaoHiem/getBill",
+                data: { product_code: maboahiem, start_date: start_date, end_date: end_date, token: token },
+                success: function (response) {
+                    var count = document.querySelectorAll('[id^="idCon"]').length;
+                    document.getElementById("total").innerHTML = response.data.total_amount * count;
+                },
+                failure: function (response) {
+
+                    alert(response);
+                },
+                error: function (response) {
+
+                    alert(response);
+                }
+            });
+        }
+    });
+
+    // Function to calculate date difference
+    function calculateDateDiff() {
+        var startDate = $("#departure-date").datepicker("getDate");
+        var endDate = $("#return-date").datepicker("getDate");
+        if (startDate && endDate) {
+            var diffTime = endDate.getTime() - startDate.getTime();
+            var diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24) + 1);
+            $("#diff-days").val(diffDays);
+        }
+    }
+
+</script>
+
+
